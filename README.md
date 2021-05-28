@@ -4,7 +4,7 @@ This repo contains an unofficial MATLAB implementation of [DCASE2021 Task 1A bas
 
 Copyright 2021 The MathWorks, Inc.
 
-## Mathworks Products (http://www.mathworks.com)
+## MathWorks Products (http://www.mathworks.com)
 Requires MATLAB release R2021a or newer.
 To train the baseline system, the following toolboxes are required:
 
@@ -31,7 +31,7 @@ This unofficial baseline has the following known differences with the official b
 ## Getting Started
 To run this baseline, add [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx) and [classifyAcousticScene.m](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/classifyAcousticScene.m) to your current folder in MATLAB and then run [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx). The example loads and examines the data, defines and trains a model, quantizes the model, and evaluates the quantized model. 
 
-You can view a PDF of the executed example in the file [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf).
+You can view a PDF of the executed example in the file [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf).
 
 ## License
 The license is available in the [License.txt](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf) file in this repository.
