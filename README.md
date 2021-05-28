@@ -29,12 +29,12 @@ This unofficial baseline has the following known differences with the official b
 5. This example uses int8 quantization instead of the half-precision quantization in the official baseline.
 
 ## Getting Started
-To run this baseline, add [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx) and [classifyAcousticScene.m](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/classifyAcousticScene.m) to your current folder in MATLAB and then run [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx). The example loads and examines the data, defines and trains a model, quantizes the model, and evaluates the quantized model. 
+To run this baseline, add [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx) and [classifyAcousticScene.m](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/classifyAcousticScene.m) to your current folder in MATLAB and then run [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.mlx). The example loads and examines the data, defines and trains a model, quantizes the model, and evaluates the quantized model. 
 
 You can view a PDF of the executed example in the file [Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf).
 
 ## License
-The license is available in the [License.txt](https://insidelabs-git.mathworks.com/bhemmat/matlab-dcase-baseline/-/blob/main/License.txt) file in this repository.
+The license is available in the [License.txt](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf) file in this repository.
 
 ## References
 [1] Toni Heittola, Annamaria Mesaros, and Tuomas Virtanen. Acoustic scene classification in dcase 2020 
