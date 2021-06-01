@@ -37,7 +37,4 @@ You can view a PDF of the executed example in the file [Unofficial_DCASE2021_Tas
 The license is available in the [License.txt](https://github.com/mathworks/Baseline-MATLAB-DCASE/blob/main/Unofficial_DCASE2021_Task1A_Baseline_Using_MATLAB.pdf) file in this repository.
 
 ## References
-[1] Toni Heittola, Annamaria Mesaros, and Tuomas Virtanen. Acoustic scene classification in dcase 2020 
-challenge: generalization across devices and low complexity solutions. In Proceedings of the Detection and 
-Classification of Acoustic Scenes and Events 2020 Workshop (DCASE2020). 2020. Submitted. URL: https://
-arxiv.org/abs/2005.14623.
+[1] Irene Martin-Morato, Toni Heittola, Annamaria Mesaros, and Tuomas Virtanen. Low-Complexity Acoustic Scene Classification for Multi-Device Audio: Analysis of DCASE 2021 Challenge Systems. 2021. URL: https://arxiv.org/abs/2105.13734.
