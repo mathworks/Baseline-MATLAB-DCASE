@@ -15,9 +15,13 @@ To accelerate training, the following toolbox is recommended:
 
 - [Parallel Computing Toolbox&trade;](https://www.mathworks.com/products/parallel-computing.html)
 
-To deploy a quantized network to C++ code, the following toolbox is required:
+To quantize a network, the following package is required:
+- [Deep Learning Toolbox Model Quantization Library](https://www.mathworks.com/matlabcentral/fileexchange/74614-deep-learning-toolbox-model-quantization-library)
 
-- [MATLAB&reg; Coder&trade;](https://www.mathworks.com/products/parallel-computing.html)
+To deploy a quantized network to CUDA code, the following toolbox is required:
+- [GPU Coder&trade;](https://www.mathworks.com/products/gpu-coder.html)
+
+See [Quantization Workflow Prerequisites](https://www.mathworks.com/help/deeplearning/ug/quantization-workflow-prerequisites.html) for a list of required products depending on your target.
 
 ## Known Differences with Official Baseline System
 This unofficial baseline has the following known differences with the official baseline. There may be additional differences.
