@@ -4,7 +4,7 @@ This repo contains an unofficial MATLAB implementation of [DCASE2021 Task 1A bas
 
 Copyright 2021 The MathWorks, Inc.
 
-## MathWorks Products (http://www.mathworks.com)
+## MathWorks Products (https://www.mathworks.com)
 Requires MATLAB release R2021a or newer.
 To train the baseline system, the following toolboxes are required:
 
